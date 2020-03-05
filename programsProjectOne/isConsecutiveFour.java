@@ -1,7 +1,7 @@
 // Ian McNulty Project 1 Program 1 3/3/2020
 import java.util.Scanner;
 
-class One{
+class IsConsecutiveFour{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number of rows and columns: ");
